@@ -1,0 +1,227 @@
+Hi
+"Action":"Default","Msg":"Hello, What can I do for you today ?"
+
+Hello
+"Action":"Default","Msg":"Hi, What can I do for you today ?"
+
+Good morning
+"Action":"Default","Msg":"Good Morning.."
+
+Good evening
+"Action":"Default","Msg":"Good Evening.."
+
+Good night
+"Action":"Default","Msg":"Good night see u tomorrow.."
+
+whats up ?
+"Action":"Default","Msg":"fine, what about you."
+
+how are u?
+"Action":"Default","Msg":"fine, what about you."
+
+how are you
+"Action":"Default","Msg":"fine, what about you."
+
+I'm also fine.
+"Action":"Default","Msg":"ok cool..."
+
+I am good
+"Action":"Default","Msg":"ok cool..."
+
+I am ok
+"Action":"Default","Msg":"ok cool..."
+
+no
+"Action":"Default","Msg":"Okay"
+
+"Action":"Default","Msg":"Are u feeling sleepy..go and eat something.."
+
+chat with me
+"Action":"Default","Msg":"Are u feeling bored ?"
+
+yes
+"Action":"Default","Msg":"Okay"
+
+
+how can i pay the bill?
+"Action":"Screenshot_bill","Msg":"use this"
+
+show my last month bill?
+"Action":"Generate bill pdf","Msg":"This your last month bill"
+
+how can i register complaint?
+"Action":"complaint_registration","Msg":"Register your complaint here"
+
+how do i save the electricity?
+"Action":"Default","Msg":"Embrace natural light,change your bulb,unplug any appliances that aren't in use etc."
+
+I am fine thank you
+"Action":"Default","Msg":"Good to know that"
+
+show me the last month electricity bill?
+"Action":"Generate bill pdf","which":"last month"
+
+show me the bill.
+"Action":"Generate bill pdf","which":"last month"
+
+what is my last electricity bill
+"Action":"Generate bill pdf","which":"last month"
+
+what is my bill
+"Action":"Generate bill pdf","which":"last month"
+
+show my billing history
+"Action":"bill_History","which":"All months"
+
+what is last date for bill payment
+"Action":"BillLastdate","Msg":"Please pay your bill before this date"
+
+Upto which date i can pay the bill
+"Action":"BillLastdate","Msg":"Please pay your bill before this date"
+
+upto when i can pay the bill
+"Action":"BillLastdate","Msg":"Please pay your bill before this date"
+
+what if i pay my bill after last date
+"Action":"Default","Msg":"Fine amount will be added to your next bill"
+
+show my all bills.
+"Action":"bill_History","which":"All months"
+
+do you know who am i?
+"Action":"Default","Msg":"Yes ur "
+
+show me the billing history
+"Action":"bill_History","which":"All months"
+
+how to apply for new connection
+"Action":"Screenshot_newConnection","Msg":"Go through this"
+
+how to pay others bill ?
+"Action":"Default","Msg":"use the Quick pay mode to pay others bill."
+
+I want to pay bill for others how can i do that ?
+"Action":"Default","Msg":"use the Quick pay mode to pay others bill."
+
+can i pay bill for others
+"Action":"Default","Msg":"Yes, you can use the quick pay mode to pay bill for others"
+
+bye
+"Action":"Default","Msg":"bye."
+
+thank you
+"Action":"Default","Msg":"Welcome.."
+
+you are good
+"Action":"Default","Msg":"Thank you"
+
+who creted u
+"Action":"Default","Msg":"Simbotics."
+
+who made you
+"Action":"Default","Msg":"Simbotics."
+
+who is your father
+"Action":"Default","Msg":"The simbotics."
+In which language u r made
+"Action":"Default","Msg":"python"
+
+who are they
+"Action":"Default","Msg":"They are my creators."
+
+who are you
+"Action":"Default","Msg":"I’m Chitti bot."
+
+what are u doing
+"Action":"Default","Msg":"I'm handling your requests."
+
+ok
+"Action":"Default","Msg":"Is there something else ?"
+
+ok see u then
+"Action":"Default","Msg":"Nice talking with you.."
+
+what you can do
+"Action":"Default","Msg":"Generate your bill ,Guid you how to use the app,Complaint registration,complaint status,show you the billing history,Show you the last date of bill payment,Guidlines about electrical appliance."
+
+what can you do
+"Action":"Default","Msg":"Generate your bill ,Guid you how to use the app,Complaint registration,complaint status,show you the billing history,Show you the last date of bill payment,Guidlines about electrical appliance."
+
+what my current billing units
+"Action":"Default","Msg":"You can see on your digital meter"
+
+i dont know how to read that
+"Action":"Default","Msg":"Read the dials from left to right and If the pointer is between the two numbers, always take the lower number."
+
+How to read that
+"Action":"Default","Msg":"Read the dials from left to right and If the pointer is between the two numbers, always take the lower number."
+
+how to read the bill units given on my meter?
+"Action":"Default","Msg":"Read the dials from left to right and If the pointer is between the two numbers, always take the lower number."
+
+Where do I find my Consumer Number ?
+"Action":"Default","Msg":"Consumer number is given on your bill"
+
+what is my consumer id ?
+"Action":"Default","Msg":"Consumer number is given on your bill"
+
+My payment was successful, but the provider still says its not paid?
+"Action":"newComplaint_registration","Msg":"your complaint has been registered"
+
+fine
+"Action":"Default","Msg":"ok cool..."
+
+though i paid my full bill ,but provider said its not paid?
+"Action":"newComplaint_registration","Msg":"your complaint has been registered"
+
+How do i know if my payment was successful?
+"Action":"Default","Msg":"you will get the conformation message on your registered mobile number and also on your mail I'd."
+
+Can I make a partial payment of my bill?
+"Action":"Default","Msg":"No,sorry this service is not available."
+
+How will I get to know if the bill was paid?
+"Action":"Default","Msg":"you will get the conformation message on your registered mobile number and also on your mail I'd."
+
+what is the status of my complaint
+"Action":"complaint_status","Msg":"Your complaint will proceed shortly"
+
+my complaint status
+"Action":"complaint_status","Msg":"Your complaint will proceed shortly"
+
+i am having light bill issues
+"Action":"Default","Msg":"What kind of issue you are facing"
+
+I want to register a complaint
+"Action":"Default","Msg":"you can directly write your complaint to me"
+
+how can i know the status of my complaint
+"Action":"complaint_status","Msg":"Your complaint will proceed shortly"
+
+I have regitered a complaint does its proceeded?
+"Action":"complaint_status","Msg":"Your complaint will proceed shortly"
+
+my electricity connection is interrupted
+"Action":"newComplaint_registration","Msg":"Your complaint has been register"
+
+my last month bill was incorrect
+"Action":"newComplaint_registration","Msg":"Your complaint has been register"
+
+i am having issue with the electricity connection
+"Action":"Default","Msg":"You can write your issues to me"
+i am having issue with the connection
+"Action":"Default","Msg":"You can write your issues to me"
+
+i am facing some trouble with the connection
+"Action":"Default","Msg":"You can write your issues to me"
+
+my last month electricity bill was exceeded
+"Action":"newComplaint_registration","Msg":"Your complaint has been register"
+
+my last month bill was too high
+"Action":"newComplaint_registration","Msg":"Your complaint has been register"
+i am facing some problem
+"Action":"Default","Msg":"You can write your issues to me"
+i am having some problems with the connection
+"Action":"Default","Msg":"You can write your issues to me"
+
